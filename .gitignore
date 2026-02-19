@@ -21,3 +21,6 @@ Thumbs.db
 
 # Allure generated report
 allure-report/
+
+# TestNG output
+test-output/
