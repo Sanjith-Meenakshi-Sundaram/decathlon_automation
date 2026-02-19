@@ -11,7 +11,7 @@ import utils.PropertyReader;
 import org.apache.log4j.Logger;
 
 public class SearchSteps {
-
+//jenkins also included
     SearchPage searchPage = new SearchPage();
     Logger log = LoggerHandler.getLogger(SearchSteps.class);
 
